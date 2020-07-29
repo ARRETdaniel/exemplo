@@ -39,3 +39,7 @@ let result1 = makeAdder(5)(10)
 //let result2 = result1(10)
 
 //let result3 = result2(10)
+
+for (const i of arr) {
+  console.log(arr[i])
+}
